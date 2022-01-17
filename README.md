@@ -152,7 +152,7 @@ Swin Transformer
 
 #### 4 DETR3D: 3D Object Detection from Multi-view Images via 3D-to-2D Queries
 
-#### 5 Transformers in Vision: A Survey
+#### 5 Attention Mechanisms in Computer Vision: A Survey
 
 ## 0x43 GAN
 
