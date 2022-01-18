@@ -8,15 +8,21 @@ paper_pub  经典论文和经典结构源码整理
 
 #### 1 Deep Residual Learning for Image Recognition
 
-#### 2 Deep High-Resolution Representation Learning for Visual Recognition
+#### 2 MobileNetV2: Inverted Residuals and Linear Bottlenecks
 
-#### 3 MobileNetV2: Inverted Residuals and Linear Bottlenecks
+#### 3 Squeeze-and-Excitation Network
 
-#### 4 Hierarchical Vision Transformer using Shifted Windows
+#### 4 SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size
+
+#### 5 ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices
+
+#### 6 Deep High-Resolution Representation Learning for Visual Recognition
+
+#### 7 Hierarchical Vision Transformer using Shifted Windows
 
 Swin Transformer
 
-#### 5 A ConvNet for the 2020s
+#### 8 A ConvNet for the 2020s
 
 # 0x2 检测
 
@@ -32,7 +38,9 @@ Swin Transformer
 
 #### 5 HTC: Hybrid Task Cascade
 
-#### 6 MMDetection: Open MMLab Detection Toolbox and Benchmark
+#### 6 FPN专题
+
+#### 7 MMDetection: Open MMLab Detection Toolbox and Benchmark
 
 ## 0x22 one stage
 
@@ -47,7 +55,6 @@ Swin Transformer
 #### 5 YOLOv4: Optimal Speed and Accuracy of Object Detection
 
 #### 6 Yolov5
-
 
 ## 0x23 anchor free
 
@@ -95,17 +102,29 @@ Swin Transformer
 
 ## 0x27 track
 
-#### 1 Simple Online and Realtime Tracking
+#### 1 High-Speed Tracking with Kernelized Correlation Filters
 
-#### 2 Simple Online and Realtime Tracking with a Deep Association Metric
+#### 2 Simple Online and Realtime Tracking
 
-#### 3 RetinaTrack: Online Single Stage Joint Detection and Tracking
+#### 3 Simple Online and Realtime Tracking with a Deep Association Metric
+
+#### 4 Fully-Convolutional Siamese Networks for Object Tracking
+
+#### 5 High Performance Visual Tracking with Siamese Region Proposal Network
+
+#### 6 RetinaTrack: Online Single Stage Joint Detection and Tracking
 
 ## 0x28 Segmentation
 
-#### 1 U-Net: Convolutional Networks for Biomedical Image Segmentation
+#### 1 Fully Convolutional Networks for Semantic Segmentation
 
-#### 2 YOLACT: Real-time Instance Segmentation
+#### 2 U-Net: Convolutional Networks for Biomedical Image Segmentation
+
+#### 3 DeepLabv3 Rethinking Atrous Convolution for Semantic Image Segmentation
+
+#### 4 Large Kernel Matters -- Improve Semantic Segmentation by Global Convolutional Network
+
+#### 5 YOLACT: Real-time Instance Segmentation
 
 
 # 0x3 face&pose
@@ -120,7 +139,9 @@ Swin Transformer
 
 #### 4 PFLD: A Practical Facial Landmark Detector
 
-#### 5 Deep Face Recognition: A Survey
+#### 5 RetinaFace: Single-stage Dense Face Localisation in the Wild
+
+#### 6 Deep Face Recognition: A Survey
 
 ## 0x32 pose
 
@@ -156,12 +177,15 @@ Swin Transformer
 
 ## 0x43 GAN
 
-#### 1 Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks
+#### 1 Image-to-Image Translation with Conditional Adversarial Nets
 
-#### 2 A Style-Based Generator Architecture for Generative Adversarial Networks, Analyzing and Improving the Image Quality of StyleGAN
+#### 2 Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks
 
-#### 3 Progressive Growing of GANs for Improved Quality, Stability, and Variation
+#### 3 Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network
 
+#### 4 Progressive Growing of GANs for Improved Quality, Stability, and Variation
+
+#### 5 A Style-Based Generator Architecture for Generative Adversarial Networks, Analyzing and Improving the Image Quality of StyleGAN
 
 ## 0x44 automL
 
