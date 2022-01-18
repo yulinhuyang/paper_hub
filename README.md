@@ -61,15 +61,7 @@ Swin Transformer
 
 #### 1 SNIPER: Efficient Multi-Scale Training
 
-## 0x25 track
-
-#### 1 Simple Online and Realtime Tracking
-
-#### 2 Simple Online and Realtime Tracking with a Deep Association Metric
-
-#### 3 RetinaTrack: Online Single Stage Joint Detection and Tracking
-
-## 0x26 3D detection
+## 0x25 3D detection
 
 #### 1 Geometry-based Distance Decomposition for Monocular 3D Object Detection
 
@@ -81,7 +73,7 @@ Swin Transformer
 
 #### 5 SMOKE: Single-Stage Monocular 3D Object Detection via Keypoint Estimation
 
-## 0x27 point cloud
+## 0x26 point cloud
 
 #### 1 PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation
 
@@ -100,6 +92,14 @@ Swin Transformer
 #### 8 Center-based 3D Object Detection and Tracking
 
 #### 9 3D Object Detection for Autonomous Driving: A Survey
+
+## 0x27 track
+
+#### 1 Simple Online and Realtime Tracking
+
+#### 2 Simple Online and Realtime Tracking with a Deep Association Metric
+
+#### 3 RetinaTrack: Online Single Stage Joint Detection and Tracking
 
 ## 0x28 Segmentation
 
